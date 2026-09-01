@@ -4,17 +4,18 @@
 
 **This is a temporary place to write things down, not a process.**
 
-It is not affiliated with, endorsed by, or coordinated with Bitcoin
-Knots or its maintainers. It does not assign anything, does not confer
-status on anything, and has no authority over anything. The numbering
-mirrors BIP style because that shape is familiar, not because a series
-is being claimed. Nobody needs anyone's permission to write down how
-something works, and that is all this is.
+These documents are written as part of the Bitcoin Knots Lightning
+effort, to record how the consensus changes work for the people
+implementing against them. They exist because doing that work required
+reading C++ and inferring the rest, and writing it down was cheaper than
+doing it twice. They are published so the next person does not repeat
+the reading.
 
-These documents exist because implementing against the Knots consensus
-changes required reading C++ and inferring the rest, and writing that
-down was cheaper than doing it twice. They are published so the next
-person does not repeat the reading.
+**They are not an official specification series, and nothing here is
+endorsed by anyone.** No document assigns anything, confers status on
+anything, or has authority over anything. The numbering mirrors BIP
+style because that shape is familiar, not because a series is being
+claimed.
 
 **They are descriptive, and they are provisional.** Where a document
 and Knots disagree, **Knots is correct and the document is wrong**. If
