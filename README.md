@@ -4,9 +4,9 @@
 
 **This is a temporary place to write things down, not a process.**
 
-These documents are written as part of the Bitcoin Knots Lightning
-effort, to record how the consensus changes work for the people
-implementing against them. They exist because doing that work required
+These documents are written as part of **Bitcoin Knots Signet**, to
+record how the consensus changes work for the people implementing
+against them. They exist because doing that work required
 reading C++ and inferring the rest, and writing it down was cheaper than
 doing it twice. They are published so the next person does not repeat
 the reading.
