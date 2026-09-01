@@ -38,7 +38,7 @@ is used wherever the branch is the thing that matters.
 
 | # | Title | Status |
 |---|-------|--------|
-| [0001](bkip-0001.md) | The BTK v2 block header | Draft |
+| [0001](bkip-0001.md) | The BLAKE2b hardfork | Draft |
 
 ## Numbering and status
 
